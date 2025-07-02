@@ -128,6 +128,12 @@ h1 h2 h3 h4 h5 h6 p {
     padding: 188px 0;
 }
 
+.container__hero {
+    display: flex;
+
+}
+
+
 .title {
     font-size: 56px;
     line-height: 1.07;
@@ -135,6 +141,7 @@ h1 h2 h3 h4 h5 h6 p {
     letter-spacing: 0.02em;
     color: #ffffff;
     max-width: 496px;
+    margin: 0 auto;
 }
 
 .button {
@@ -152,6 +159,7 @@ h1 h2 h3 h4 h5 h6 p {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    margin: 0 auto;
 }
 
 
@@ -209,6 +217,8 @@ h1 h2 h3 h4 h5 h6 p {
 
 img {
     display: block;
+    max-width: 100%;
+    height: auto;
 }
 
 .team {
@@ -344,7 +354,6 @@ img {
     letter-spacing: 0.02em;
     color: #f4f4fd;
     max-width: 264px;
-
 
 }
 
