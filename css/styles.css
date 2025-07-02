@@ -21,7 +21,7 @@ a {
 
 }
 
-.container .header-container {
+.container.header-container {
     display: flex;
     align-items: center;
 
