@@ -291,7 +291,7 @@ img {
     margin-bottom: 72px;
 }
 
-.app__name {
+.app-name {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
@@ -313,9 +313,6 @@ img {
 
 }
 
-.first__portfolio-item {
-    padding: 32px 0;
-}
 
 .portfolio__caption {
 
